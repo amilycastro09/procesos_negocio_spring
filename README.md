@@ -1,2 +1,2 @@
 # procesos_negocio_spring
-Creando mi primera aplicación en spring boot
+proyecto para la clase de procesos del negocio usando el framework de spring boot
